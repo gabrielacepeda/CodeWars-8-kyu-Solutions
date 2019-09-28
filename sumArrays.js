@@ -15,6 +15,6 @@ What We're Testing
 We're testing basic loops and math operations. This is for beginners who are just learning loops and math operations.
 */
 
-function sum (numbers) {
+function sum(numbers) {
   return numbers.reduce((a, b)=> a + b, 0)     
 };
